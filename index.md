@@ -1,25 +1,18 @@
 ## ครัวอีสาน กม.1
 
-You can use the [editor on GitHub](https://github.com/sarawutfukana/km1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+อาหารอีสานแท้ ๆ แซ่บ ๆ นัว ๆ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### นัวส้มตำ
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- ตำปู + ปลาร้า
+- ตำไทย
+- ตำถั่วปู + ปลาร้า
+- ตำข้าวโพด + ไข่เค็ม
+- ตำแตงปู + ปลาร้า
+- ตำมะม่วงปู + ปลาร้า
+- ตำซั่วปู + ปลาร้า
+- เพิ่ม หอยดอง หมูยอ ไข่ต้ม
 
 **Bold** and _Italic_ and `Code` text
 
