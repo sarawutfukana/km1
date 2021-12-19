@@ -5,26 +5,20 @@
 ### นัวส้มตำ
 
 ```markdown
-- ตำปู + ปลาร้า
-- ตำไทย
-- ตำถั่วปู + ปลาร้า
-- ตำข้าวโพด + ไข่เค็ม
-- ตำแตงปู + ปลาร้า
-- ตำมะม่วงปู + ปลาร้า
-- ตำซั่วปู + ปลาร้า
-- เพิ่ม หอยดอง หมูยอ ไข่ต้ม
+- ตำปู + ปลาร้า (35 บ.)
+- ตำไทย (45 บ.)
+- ตำถั่วปู + ปลาร้า (45 บ.)
+- ตำข้าวโพด + ไข่เค็ม (45 บ.)
+- ตำแตงปู + ปลาร้า (45 บ.)
+- ตำมะม่วงปู + ปลาร้า (45 บ.)
+- ตำซั่วปู + ปลาร้า (45 บ.)
+- เพิ่ม หอยดอง หมูยอ ไข่ต้ม (10 บ.)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### ลาบแซ่บ
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sarawutfukana/km1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```markdown
+- ลาบหมู (50 บ.)
+- ลาบเนื้อ (50 บ.)
+- ตับหวาน (50 บ.)
+- ก้อยเนื้อ ขม, ไม่ขม (50 บ.)
